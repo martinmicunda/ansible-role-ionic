@@ -1,8 +1,10 @@
 ---
 - name: Install Cordova
   npm: name=cordova global=yes version={{ cordova_version }}
+  sudo: yes
   tags: ionic
 
 - name: Install Ionic
   npm: name=ionic global=yes version={{ ionic_version }}
+  sudo: yes
   tags: ionic
