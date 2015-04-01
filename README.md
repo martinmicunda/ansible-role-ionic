@@ -1,7 +1,7 @@
 Ansible Gulp Role
 =========
 
-[![Build Status](https://secure.travis-ci.org/martinmicunda/ansible-role-ionic.png)](http://travis-ci.org/martinmicunda/ansible-role-ionic) [![Ansible Galaxy](http://img.shields.io/badge/galaxy-martinmicunda.gulp-blue.svg)](https://galaxy.ansible.com/list#/roles/1707) [![Platforms](http://img.shields.io/badge/platforms-ubuntu-orange.svg)](#)
+[![Build Status](https://secure.travis-ci.org/martinmicunda/ansible-role-ionic.png)](http://travis-ci.org/martinmicunda/ansible-role-ionic) [![Ansible Galaxy](http://img.shields.io/badge/galaxy-martinmicunda.gulp-blue.svg)](https://galaxy.ansible.com/list#/roles/3272) [![Platforms](http://img.shields.io/badge/platforms-ubuntu-orange.svg)](#)
 
 An ansible role for installing ionic and cordova npm packages.
 
